@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hello, thank you for taking the time to visit. 👋
 
-<!--
-**dotory-60/dotory-60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+- 🌱 I’m currently studying backend development.
+- 📱 My goal is to build my own application and make it available for people to use.
+- 🎓 I’m about to graduate from university.
+- 🏅 I also hold a license in Industrial Engineer Information Processing.
 
-Here are some ideas to get you started:
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> 
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 Stats </h2> 
+    <div style="text-align: left;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=ji-won&bg_color=180,000000,00000000&title_color=a6a6a6&text_color=a6a6a6"/>  
+    </div> 
+</div>
+    
+    
