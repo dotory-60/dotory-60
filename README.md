@@ -18,12 +18,5 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </div>
 </div>
-
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 Stats </h2> 
-    <div style="text-align: left;"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ji-won&bg_color=180,000000,00000000&title_color=a6a6a6&text_color=a6a6a6"/>  
-    </div> 
-</div>
     
     
